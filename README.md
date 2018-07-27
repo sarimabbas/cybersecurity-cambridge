@@ -1,4 +1,4 @@
-# Cybersecurity @ Cambridge
+# Cyber Security @ Cambridge
 
 Scripts used for OSINT and phish attempt.
 

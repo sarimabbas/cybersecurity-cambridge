@@ -34,3 +34,13 @@ Running Flask development server
 export FLASK_APP=app.py
 flask run
 ```
+
+## scripts
+
+Untested scripts, ordered into a workflow and cleaned of vulnerable information.
+
+Execute using: 
+
+```
+python3 script_name.py 
+```

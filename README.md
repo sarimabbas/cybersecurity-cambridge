@@ -35,6 +35,8 @@ export FLASK_APP=app.py
 flask run
 ```
 
+The app can be deployed to a host like PythonAnywhere:  https://help.pythonanywhere.com/pages/Flask/
+
 ## scripts
 
 Working (but not fully tested) scripts, ordered into a workflow and cleaned of vulnerable information.

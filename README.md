@@ -37,7 +37,7 @@ flask run
 
 ## scripts
 
-Untested scripts, ordered into a workflow and cleaned of vulnerable information.
+Working (but not fully tested) scripts, ordered into a workflow and cleaned of vulnerable information.
 
 Execute using: 
 
